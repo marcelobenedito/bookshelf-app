@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="loading_books">Loading books...</string>
+    <string name="loading_data_failed">Loading data failed</string>
+    <string name="retry">Retry</string>
+    <string name="page_count">%1$s pages</string>
+    <string name="description">Description</string>
+    <string name="read">Read</string>
+    <string name="bookshelf">Bookshelf</string>
+    <string name="book_details">Book Details</string>
+    <string name="back">Back</string>
+</resources>
